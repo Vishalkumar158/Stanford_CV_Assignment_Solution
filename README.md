@@ -12,7 +12,7 @@ For now, all assignments are completed. I will continue watching the rest of the
 - Python
 - Pytorch
 - Numpy
-
+- Cython
 
 ## Clone the repository: 
 
